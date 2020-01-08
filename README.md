@@ -6,4 +6,4 @@ The Maze Generator create and solves a maze of any given size using Depth first 
 
 The mazes will be made up of 'X' and '+' characters. Where the 'X' characters are the walls and the '+' characters are the path to solve the maze.
 
-Try out the Maze Generator without having to download the repo: https://ameet2r.github.io/Maze_Generator/
+Try out the Maze Generator in your browser without having to download or install anything: https://ameet2r.github.io/Maze_Generator/
